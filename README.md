@@ -9,4 +9,4 @@ Project to demonstrate an error when clicking on a link in next.js in dev mode.
 * navigate to http://localhost:3000/
 * click on the link
 
-Notice that after reloading the linked page once, the error is gone.
+In this branch, the import of `about.scss` has been removed, which results in the bug not occuring.
