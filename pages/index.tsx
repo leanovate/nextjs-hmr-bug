@@ -1,7 +1,7 @@
 
 
 import Link from 'next/link'
-import "./index.css"
+// import "./index.css"
 
 export default () =>
   <div>
