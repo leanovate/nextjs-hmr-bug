@@ -1,1 +1,3 @@
-export default () => <p>Welcome to About!</p>
+import { SomeEnum } from "../src/types";
+
+export default () => <p>There is an enum: {SomeEnum.someValue.toString()}</p>
