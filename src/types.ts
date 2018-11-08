@@ -1,1 +1,1 @@
-export { SomeType, SomeEnum } from "../types";
+export { SomeEnum } from "../types";
